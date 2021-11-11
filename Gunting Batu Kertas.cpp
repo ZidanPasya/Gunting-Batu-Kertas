@@ -44,4 +44,5 @@ int main() {
 	else {
 		cout << "Masukkan angka yang benar!";
 	}
+	//yamuda
 }
