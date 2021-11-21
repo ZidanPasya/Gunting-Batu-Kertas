@@ -45,4 +45,5 @@ int main() {
 		cout << "Masukkan angka yang benar!";
 	}
 	//yamuda
+	//raphking
 }
